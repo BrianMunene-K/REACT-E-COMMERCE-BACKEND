@@ -1,0 +1,822 @@
+[
+ 
+  {
+    "id": 214,
+    "title": "HP 15.6\" FHD Laptop 2026 Edition with Copilot AI",
+    "description": "HP 15.6\" FHD Laptop 2026 Edition with Copilot AI, 16GB RAM, 256GB SSD, Intel Processor, Long Battery Life, Lightweight 3.64 lbs, Microsoft 365, Windows 11 for Students & Office",
+    "price": "40000.00",
+    "imageName": "/Uploads/laptops/lap6.jpg"
+  },
+  {
+    "id": 213,
+    "title": "Dell 16 Laptop",
+    "description": "Dell 16 Laptop DC16251-16.0-inch 16:10 2K Touchscreen Display, Intel Core 7 150U Processor, 16GB DDR5 RAM, 1TB SSD, Intel Graphics, Windows 11 Home, 1 Year Basic Onsite Service, Cloud Blue",
+    "price": "40000.00",
+    "imageName": "/uploads/laptop/lap5.jpg"
+  },
+  {
+    "id": 212,
+    "title": "HP Everyday Laptop",
+    "description": "HP Everyday Laptop • 2026 Edition • 8GB RAM • 256GB SSD • Microsoft Office 365 Included • Thin & Portable • Fast Charge and Up to 12 Hours Battery Life • Windows 11",
+    "price": "35000.00",
+    "imageName": "/uploads/laptop/lap4.jpg"
+  },
+  {
+    "id": 211,
+    "title": "Samsung 14\" Galaxy Chromebook Go Laptop PC Computer",
+    "description": "Samsung 14\" Galaxy Chromebook Go Laptop PC Computer, Intel Celeron N4500 Processor, 4GB RAM, 64GB Storage, ChromeOS, XE340XDA-KA2US, Student Laptop, Silver",
+    "price": "40000.00",
+    "imageName": "/uploads/laptops/lap3.jpg"
+  },
+  {
+    "id": 210,
+    "title": "HP17.3 Inch Business Laptop Computer",
+    "description": "HP 17.3 Inch Business Laptop Computer • 2026 Edition • Latest AMD Ryzen 5 CPU • 16GB RAM • 512GB SSD • 17.3\" FHD Display • Long Battery Life • Windows 11 with Office 365 for The Web",
+    "price": "30000.00",
+    "imageName": "/uploads/laptops/lap2.jpg"
+  },
+  {
+    "id": 209,
+    "title": "Lenovo IdeaPad",
+    "description": "Lenovo IdeaPad Laptop with Microsoft 365 Office, 8GB RAM, 256GB PCIe SSD, 11 Hour Battery, Intel High Performance CPU, SD-Card Reader, Webcam, USB-C, HDMI,Ultra-Quiet Design, Windows 11",
+    "price": "25000.00",
+    "imageName": "/uploads/laptops/lap1.jpg"
+  },
+  {
+    "id": 208,
+    "title": "Retro Game Console",
+    "description": "Retro Game Console with 620 Video Games,Classic Mini Game System with Wired Controller,HDMI and AV Output Plug and Play Video Games (Grey)",
+    "price": "6000.00",
+    "imageName": "/uploads/game-store/game7.jpg"
+  },
+  {
+    "id": 207,
+    "title": "LIUWEI New Retro Gaming Console & Game Stick Pro",
+    "description": "LIUWEI New Retro Gaming Console & Game Stick Pro - 20,000+ Classic Video Games, 23 Emulators, Dual Wireless Controllers, 4K HDMI Output, Plug & Play, Compatible with TV, PC, Projector, 64GB",
+    "price": "4000.00",
+    "imageName": "/uploads/game-store/game6.jpg"
+  },
+  {
+    "id": 206,
+    "title": "Nintendo 64 Console, Premium Bundle (Renewed)",
+    "description": "Authentic classic console setup completely refurbished with matching visual cords, multi-game accessories, and dual runtime slots.",
+    "price": "15000.00",
+    "imageName": "/uploads/game-store/game5.jpg"
+  },
+  {
+    "id": 205,
+    "title": "Xbox",
+    "description": "Xbox Series X 1TB Gaming Console Console + 1 Wireless Controller - Backward Compatible with Thousands of Games, Fine-Tuned Performance, True 4K Gaming, Up to 120 FPS - HDMI_Cable",
+    "price": "60000.00",
+    "imageName": "/uploads/game-store/game4.jpg"
+  },
+  {
+    "id": 203,
+    "title": "PlayStation 5 Portal Remote Player",
+    "description": "PlayStation 5 Portal Remote Player",
+    "price": "20000.00",
+    "imageName": "/uploads/game-store/game2.jpg"
+  },
+  {
+    "id": 202,
+    "title": "Upgraded Game Stick Pro",
+    "description": "2026 Upgraded Retro Gaming Console Stick Pro, Video Games Stick with 4K HDMI Built-in 23 Emulators Console, 40000+ Game System, Plug and Play TV Game Stick with 2 Wireless Controllers Moonlight White",
+    "price": "4000.00",
+    "imageName": "/uploads/game-store/game1.jpg"
+  },
+  {
+"id":200,
+"title":"Playstation 5 Call Of Duty Series",
+"description":"PS5 Call of duty",
+"price":"45000.00",
+"imageName":"/uploads/game-store/ps5-call-of-duty_result.png"
+ },
+ 
+{"id": 199,
+"title":"Consumest Sink Caddy",
+"description":"Consumest Sink Caddy",
+"price":1200.00,
+"imageName":"/uploads/kitchen/kitchen27.jpg"},
+
+
+  {
+    "id": 198,
+    "title": "Mueller the Real Original Pro Chopper",
+    "description": "Mueller The Real Original Pro Chopper since 2013 Vegetable Chopper Mandoline Slicer, 8 Blade Food Veggie Chopper Onion Vegetable Cutter with Container, Kitchen Gadgets & Essentials, (10 in 1)",
+    "price": 3200.00,
+    "imageName": "/uploads/kitchen/kitchen26.jpg"
+  },
+  {
+    "id": 197,
+    "title": "BELLA Two Tier Food Streamer",
+    "description": "BELLA Two Tier Food Steamer with Stackable Baskets & Removable Base for Fast Simultaneous Cooking - Auto Shutoff & Boil Dry Protection, 7.4 QT, Black",
+    "price": 5000.00,
+    "imageName": "/uploads/kitchen/kitchen25.jpg"
+  },
+  {
+    "id": 196,
+    "title": "Ukeetap 10\" Pro Chicken Shredder Tool Twist Large for Kitchen",
+    "description": "Ukeetap 10\" Pro Chicken Shredder Tool Twist Large for Kitchen, BPA-Free Food-Safe Meat Grinder, Visible Chicken Breast Meat Shredder with Strong Anti-Slip Bottom & Ergonomic Handle, Black",
+    "price": 1800.00,
+    "imageName": "/uploads/kitchen/kitchen23.jpg"
+  },
+  {
+    "id": 195,
+    "title": "Meat Thermometer Digital for Grilling and Cooking",
+    "description": "Meat Thermometer Digital for Grilling and Cooking - ANDAXIN Waterproof Ultra-Fast Instant Read Food thermometers with Backlight & Calibration for Kitchen, Deep Fry, BBQ, Grill(Red/Black), LCD",
+    "price": 1500.00,
+    "imageName": "/uploads/kitchen/kitchen20.jpg"
+  },
+  {
+    "id": 194,
+    "title": "Electric Salt and Pepper Grinder Set",
+    "description": "Electric Salt and Pepper Grinder Set – Rechargeable Automatic Salt and Pepper Shaker with 6 Adjustable Coarseness, Large-Capacity Pepper Mill Kitchen Appliances and Home Essentials Gifts for Women",
+    "price": 4000.00,
+    "imageName": "/uploads/kitchen/kitchen24.jpg"
+  },
+  {
+    "id": 193,
+    "title": "kitchen sets",
+    "description": "",
+    "price": 1500.00,
+    "imageName": "/uploads/kitchen/kitchen19.jpg"
+  },
+  {
+    "id": 192,
+    "title": "Kitchen Gizmo Snap N' Strain",
+    "description": "Kitchen Gizmo Snap N' Strain - Silicone Pasta Strainer Clip-On for Pots and Pans - Heat Resistant Colander for Vegetables and Noodles - Kitchen Gadgets for Cooking - Space-Saving Design - Gray",
+    "price": 2000.00,
+    "imageName": "/uploads/kitchen/kitchen17.jpg"
+  },
+  {
+    "id": 191,
+    "title": "kitchen set",
+    "description": "SisBroo Cord Organizer for Appliances, 4PCS Kitchen Appliance Cord Winder Cable Organizer, Cord Holder Cord Wrapper for Appliances Stick on Pressure Cooker, Mixer, Blender, Coffee Maker, Air Fryer",
+    "price": 1200.00,
+    "imageName": "/uploads/kitchen/kitchen16.jpg"
+  },
+  {
+    "id": 190,
+    "title": "Paris Hilton 6-Quart Manual Slow Cooker",
+    "description": "Paris Hilton 6-Quart Manual Slow Cooker, Naturally Nonstick Stoneware Ceramic Insert, Three Settings (Low, High, Warm), Dishwasher Safe Family Size Slow Cooker, Pink",
+    "price": 2000.00,
+    "imageName": "/uploads/kitchen/kitchen14.jpg"
+  },
+  {
+    "id": 189,
+    "title": "Milk Frother Wand Rechargeable Handheld Frother For Coffee",
+    "description": "Milk Frother Wand Rechargeable Handheld Frother For Coffee,Batidora De Mano Electrica Coffee Bar Accessories Kitchen Appliances Essentials Electric Frother Gift For Women Men (Black)",
+    "price": 1200.00,
+    "imageName": "/uploads/kitchen/kitchen13.jpg"
+  },
+  {
+    "id": 188,
+    "title": "Mixing Bowls",
+    "description": "Mixing Bowls with Airtight Lids Set, 20 PCS Kitchen Gadgets Set, 6 Stainless Steel Bowls,3 Grater Attachments,Non-Slip Silicone Bottoms,Great for Serving&Baking,Size 5, 4, 3.5, 2.1, 1.5, 1.1QT (Khaki)",
+    "price": 3000.00,
+    "imageName": "/uploads/kitchen/kitchen12.jpg"
+  },
+  {
+    "id": 187,
+    "title": "Paris Hitlon Oven Mitt Set",
+    "description": "Paris Hilton Oven Mitt Set with Iconic That's HOT Design, Heat Resistant Pot Holders Featuring Non-Slip Textured Silicone Grips, 2-Piece Set, Pink",
+    "price": 1200.00,
+    "imageName": "/uploads/kitchen/kitchen11.jpg"
+  },
+  {
+    "id": 186,
+    "title": "Hydream Stove Top",
+    "description": "Hydream Stove Top for Silicone Shelf,30 Inch Magnetic Shelf Over the Stove Spice Rack,Kitchen Organizer Magnet Above Stovetop Back of Flat Storage Suctioned-Black",
+    "price": 1000.00,
+    "imageName": "/uploads/kitchen/kitchen10.jpg"
+  },
+  {
+    "id": 185,
+    "title": "Milk Frother Handheld,Mini Drink Mixer and Coffee Blender Frother for Coffee Bar Accessories, Matcha Whisk,Latte, Cappuccino, Frappe, Hot Chocolate, Egg,Kitchen Essentials Gift (White)",
+    "description": "",
+    "price": 900.00,
+    "imageName": "/uploads/kitchen/kitchen9.jpg"
+  },
+  {
+    "id": 184,
+    "title": "sets",
+    "description": "Aieve Appliance Sliders, 8 Pcs Small Appliance Slider for Countertop, Self Adhesive Caster Wheels Rollers, Coffee Bar Accessories Kitchen Gadgets Home Must Have for Mixer Coffee Maker Air Fryer",
+    "price": 600.0,
+    "imageName": "/uploads/kitchen/kitchen8.jpg"
+  },
+  {
+    "id": 183,
+    "title": "WEPSEN 5-Speed Electric Hand Mixer, 4 Large Mixing Bowls Set, Handheld Mixers with Whisks Beater, Stainless Steel Metal Nesting Bowl Measuring Cups Spoons Kitchen Cake Blender for Baking Supplies",
+    "description": "WEPSEN 5-Speed Electric Hand Mixer, 4 Large Mixing Bowls Set, Handheld Mixers with Whisks Beater, Stainless Steel Metal Nesting Bowl Measuring Cups Spoons Kitchen Cake Blender for Baking Supplies",
+    "price": 8000.0,
+    "imageName": "/uploads/kitchen/kitchen7.jpg"
+  },
+  {
+    "id": 182,
+    "title": "RAXCO Kitchen Utensils Set",
+    "description": "RAXCO Kitchen Utensils Set For Cooking-7 Cooking Utensils,5 Kitchen Utensils,6 Knife set,utensilios de cocina(18-in-1) (Black)",
+    "price": 6000.0,
+    "imageName": "/uploads/kitchen/kitchen6.jpg"
+  },
+  {
+    "id": 181,
+    "title": "Electric Citrus Juicer",
+    "description": "Vinci Hands Free Electric Citrus Juicer, 1-Button Juicer Machine, Orange Lime Grapefruit Lemon Squeezer, Easy to Clean Orange Juicer Squeezer, Black/Stainless Steel",
+    "price": 13000.0,
+    "imageName": "/uploads/kitchen/kitchen5.jpg"
+  },
+  {
+    "id": 180,
+    "title": "KitchenAid Shears",
+    "description": "KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors, Dishwasher Safe, Soft Grip Comfort Handle, 8.72 Inch, Black",
+    "price": 400.00,
+    "imageName": "/uploads/kitchen/kitchen4.jpg"
+  },
+  {
+    "id": 179,
+    "title": "Kitchen Utensils Set",
+    "description": "Kitchen Utensils Set- 35 PCs Cooking Utensils with Grater,Tongs, Spoon Spatula &Turner Made of Heat Resistant Food Grade Silicone and Wooden Handles Kitchen Gadgets Tools Set for Nonstick Cookware",
+    "price": 4000.00,
+    "imageName": "/uploads/kitchen/kitchen3.jpg"
+  },
+  {
+    "id": 178,
+    "title": "Kitchen Gadget Set",
+    "description": "Kitchen Gadgets Set 5 Pieces, Stackable Cooking Tools Space Saving for Small Kitchen, Accessories for RV Camper Inside Dishwasher Safe (Blue)",
+    "price": 1200.00,
+    "imageName": "/uploads/kitchen/kitchen2.jpg"
+  },
+  {
+    "id": 177,
+    "title": "Vacuum Sealer",
+    "description": "Vakumar Vacuum Sealer Machine, 90Kpa Liquid Food Vacuum Sealer Machine Preservation Dry/Moist/Liquid Modes, LED Indicator Light, Handle Locked Design, Built-in Cutter and Bag Storage, Starter Kit",
+    "price": 8000.00,
+    "imageName": "/uploads/kitchen/kitchen1.jpg"
+  },
+  {
+    "id": 176,
+    "title": "Zoeller M53 Mighty-mate Submersible Sump Pump",
+    "description": "Zoeller M53 Mighty-mate Submersible Sump Pump, 1/3 Hp",
+    "price": 21000.00,
+    "imageName": "/uploads/sump/Zoeller.jpg"
+  },
+  {
+    "id": 175,
+    "title": "WAYNE Pool Cover Pump",
+    "description": "Pool Cover Pump, 1HP Submersible Water Pump with Detachable Base, Dual Outlets, Sump Pump For Pool, Hot Tubs, Pond, Yellow",
+    "price": 5000.00,
+    "imageName": "/uploads/sump/wayne-waterbug.jpg"
+  },
+  {
+    "id": 174,
+    "title": "Pool Cover Pump",
+    "description": "Pool Cover Pump Above Ground - Submersible Sump Pump, Swimming Water Removal Pumps, with Drainage Hose & 25 Feet Extra Long Power Cord, 850 GPH inGround, 3 Adapters Black",
+    "price": 5000.00,
+    "imageName": "/uploads/sump/pool-cover-pump.jpg"
+  },
+  {
+    "id": 173,
+    "title": "Pool Cover Pump",
+    "description": "Pool Cover Pump above Ground - Submersible Water Sump Pump Swimming Water Removal Pumps, with Drainage Hose & 25 Feet Extra Long Power Cord, 850 GPH inGround, 3 Adapters",
+    "price": 5000.00,
+    "imageName": "/uploads/sump/pool-cover-pump-above.jpg"
+  },
+  {
+    "id": 172,
+    "title": "lanchez Sump Pump",
+    "description": "Lanchez Sump Pump, 1/2 HP 2450GPH Submersible Water Pump, Utility Pump Thermoplastic Portable Electric Transfer Pump for Hot Tub Swimming Pool Basement Garden Pond Tubs Draining with 10FT Cord",
+    "price": 7300.00,
+    "imageName": "/uploads/sump/lanchezSumpPump.jpg"
+  },
+  {
+    "id": 171,
+    "title": "FOTING Sump Pump",
+    "description": "FOTING Sump Pump 1HP Clean/Dirty Submersible Water Pump,4600GPH Utility Pump Thermoplastic Electric Portable Transfer Water Pump for Swimming Pool Pond Basement with 10ft Power Cord,Manual",
+    "price": 8500.00,
+    "imageName": "/uploads/sump/image-pump3.jpg"
+  },
+  {
+    "id": 170,
+    "title": "WAYNE Submersible Pump",
+    "description": "WAYNE CDU790-1/3 HP Submersible Cast Iron and Stainless Steel Sump Pump with Integrated Vertical Float Switch - Up to 4,600 Gallons Per Hour - Heavy Duty Basement Sump Pump, Black",
+    "price": 19000.00,
+    "imageName": "/uploads/sump/image-pump2.jpg"
+  },
+  {
+    "id": 169,
+    "title": "Fluent Power Sump",
+    "description": "FLUENTPOWER 1/2HP Submersible Sump Pump 2500GPH Utility Water Pump, Auto/Manual Control by Integrated Float Switch, with 16.4 Ft Cord for Pool Tub Garden Pond Flooded Basement Draining",
+    "price": 6900.00,
+    "imageName": "/uploads/sump/fluentpower.jpg"
+  },
+  {
+    "id": 168,
+    "title": "AgiiMan Pool cover Pump",
+    "description": "AgiiMan Pool Cover Pump Above Ground - 850 GPH Submersible Water Pump for Pool Draining, Portable Small Sump Pumps with 16' Drainage Hose and 25' Power Cord, 3 Adapters, Black",
+    "price": 4660.00,
+    "imageName": "/uploads/sump/Agiiman-Pool-cover-pump.jpg"
+  },
+  {
+    "id": 167,
+    "title": "House Filtering System",
+    "description": "10\" x 4.5\" Whole House Water Filter Housing – 1\" NPT Stainless Steel Ports, Heavy Duty Clear Filter Sump – Double O-Ring Leak-Proof with Pressure Release Valve – Fits All 10x4.5 Filters",
+    "price": 12000.00,
+    "imageName": "/uploads/sump/image-pump-1.png"
+  },
+  {
+    "id": 164,
+    "title": "Patrick ASSARAF Crew-Neck T shirt",
+    "description": "latest in market",
+    "price": 3000.00,
+    "imageName": "/uploads/fashion-trends/Patrick Assaraf crew-neck T-shirt.png"
+  },
+  {
+    "id": 163,
+    "title": "3D TSHIRT",
+    "description": "",
+    "price": 2000.00,
+    "imageName": "/uploads/fashion-trends/3D clothes_result.png"
+  },
+  {
+    "id": 161,
+    "title": "Pencil skirt",
+    "description": "An elegant, high-waisted slim-fit skirt that contours perfectly for the modern workspace. Made with a comfortable stretch blend that guarantees all-day mobility.",
+    "price": 2000.00,
+    "imageName": "/uploads/fashion-trends/waist pencil_result.png"
+  },
+  {
+    "id": 160,
+    "title": "Nintendo Switch",
+    "description": "it is a nintendo switch that helps  monile users play with a smooth experience ",
+    "price": 10000.00,
+    "imageName": "/uploads/game-store/nintendo switch with neon_result.png"
+  },
+  {
+    "id": 159,
+    "title": "LOOI AI ROBOT",
+    "description": "its an ai generated assistant.It is mostly features as a mini robot assistant that helps the users to answer their daiy questions thart they may have in their minds and also life daily issues",
+    "price": 20000.00,
+    "imageName": "/uploads/Latest-Devices/LOOI robot.png"
+  },
+  {
+    "id": 135,
+    "title": "TRALT Ergonomic Desk Chair",
+    "description": "Sleek and modern ergonomic workspace chair with dynamic spinal support adjustments, smooth swivel features, and durable nylon casters.",
+    "price": 17000.00,
+    "imageName": "/uploads/office-chairs/TRALT Office Chair - Ergonomic Desk Chair.png"
+  },
+  {
+    "id": 134,
+    "title": "Titan 330 lbs Capacity Task Chair",
+    "description": "Reinforced heavy-duty office desk chair engineered with a heavy-gauge steel base and extra-wide seat to securely support up to 330 lbs.",
+    "price": 22500.00,
+    "imageName": "/uploads/office-chairs/Office Chair330 lbs.png"
+  },
+  {
+    "id": 133,
+    "title": "Executive Leather Chair with Footrest",
+    "description": "Premium leather home office desk chair featuring an extendable leg rest, deep recline functions, and thick double-layered foam padding.",
+    "price": 35500.00,
+    "imageName": "/uploads/office-chairs/Office Chair, Executive High Back Leather Home Office Desk Chair with Footrest & Lumbar Support.png"
+  },
+  {
+    "id": 131,
+    "title": "Executive Leather High Back Office Chair",
+    "description": "Luxury executive boardroom chair upholstered in premium bonded leather with a padded headrest, waterfall seat edge, and chrome accents.",
+    "price": 32000.00,
+    "imageName": "/uploads/office-chairs/Office Chair - Executive Leather High Back Office Desk Chair.png"
+  },
+  {
+    "id": 130,
+    "title": "Marsail High Back Mesh Office Chair",
+    "description": "High-back ergonomic task chair with responsive mesh ventilation, synchronized tilt-lock mechanism, and adaptive lumbar alignment.",
+    "price": 19500.00,
+    "imageName": "/uploads/office-chairs/Marsail Ergonomic Office Chair Office Desk Chair with High Back Mesh.png"
+  },
+  {
+    "id": 129,
+    "title": "Ergalithic X-Shaped Ergonomic Chair",
+    "description": "Heavy-duty X-shaped computer desk chair designed for dual-use gaming and professional office setups, providing superior structural back support.",
+    "price": 26000.00,
+    "imageName": "/uploads/office-chairs/TRALT Office Chair - Ergonomic Desk Chair.png"
+  },
+  {
+    "id": 128,
+    "title": "Bmday Basics Executive High Back Chair",
+    "description": "Classic executive high-back office chair with plush deep-cushion padding, integrated headrest, and durable smooth-rolling casters.",
+    "price": 28500.00,
+    "imageName": "/uploads/office-chairs/Bmday Basics Executive High Back Office Chair.png"
+  },
+  {
+    "id": 127,
+    "title": "BestGlory Inflatable Lumbar Office Chair",
+    "description": "Premium office desk chair equipped with an innovative inflatable lumbar support system and adjustable armrests for personalized ergonomic relief.",
+    "price": 24000.00,
+    "imageName": "/uploads/office-chairs/BestGlory Office Desk Chair with Inflatable Lumbar Support, Ergonomic Office Chair.png"
+  },
+  {
+    "id": 126,
+    "title": "AreShark Ergonomic Office Chair",
+    "description": "Ergonomic computer desk chair featuring a breathable mesh back, adjustable lumbar support, and contoured seat cushion for daily workplace comfort.",
+    "price": 18500.00,
+    "imageName": "/uploads/office-chairs/AreShark Office Chair Ergonomic Desk Chairs.png"
+  },
+  {
+    "id": 125,
+    "title": "RGB Color Changing Smart Bulb",
+    "description": "Transform your residential spaces instantly with this dynamic RGB color-changing accent bulb. Seamlessly shifts across a rich spectrum of vibrant colors and specialized party strobe modes to fit any mood loop or gathering.",
+    "price": 900.00,
+    "imageName": "/uploads/Bulbs/RGB Color Changing Bulb.png"
+  },
+  {
+    "id": 124,
+    "title": "Zephyr Range Hood Appliance Bulb",
+    "description": "A heavy-duty 50W Z0B0011 specification high-intensity appliance bulb meticulously sized at 70mm for Zephyr Milano and Europa kitchen exhaust setups. Built to withstand high cooking heat and grease clouds safely.",
+    "price": 650.00,
+    "imageName": "/uploads/Bulbs/Range Hood Appliance Bulbs E27 Lighting Z0B0011 50W Bulbs for Zephyr Milano Europa Hoods 70mm.png"
+  }
+,
+{
+    "id": 123,
+    "title": "G45 Low Watt LED Night Light Bulb",
+    "description": "A compact 1W G45 mini globe LED bulb designed explicitly for overnight safety illumination, ambient hallway markers, and decorative accents. Radiates a non-dimmable 6000K daylight white glow over standard E26/E27 sockets.",
+    "price": 250.00,
+    "imageName": "/uploads/Bulbs/Night Light Bulb 1 Watt LED Low Watt Bulbs E26 E27 Standard Base Daylight White 6000K Not Dimmable G45.png"
+  },
+  {
+    "id": 122,
+    "title": "Haian Support Efficient 12V LED Bulb",
+    "description": "A specialized, ultra-efficient 6W low-voltage LED bulb engineered perfectly for 12V off-grid setups, solar power systems, or marine cabins. Casts a steady 600 lumens of smooth illumination to prevent high battery drain.",
+    "price": 450.00,
+    "imageName": "/uploads/Bulbs/Haian Support Efficient 12V LED bulb 6W 600Lm.png"
+  },
+  {
+    "id": 121,
+    "title": "E26 Warm White LED Corn Light Bulb 3-Pack",
+    "description": "A high-performance 3-pack of 10W corn style LED bulbs projecting a cozy 2700K warm white glow. Engineered to emit 1100 lumens of continuous omnidirectional lighting while optimizing power usage down from standard 100W legacy bulbs.",
+    "price": 1500.00,
+    "imageName": "/uploads/Bulbs/E26 Bulb 10W 3 Pack led Corn Light Bulb Warm White 2700K 1100 Lumen 100 watt.png"
+  },
+  {
+    "id": 120,
+    "title": "BlueStars Cool White LED Bulb 4-Pack",
+    "description": "An energy-efficient 4-pack of 10W LED bulbs delivering an impressive 1100 lumens of ultra-bright light. Features a crisp 6000K cool white temperature profile and a versatile E26/E27 medium base for everyday household lamps.",
+    "price": 1200.00,
+    "imageName": "/uploads/Bulbs/BlueStars 4-Pack 10W (100 Watt Equivalent) 1100 Lumens, 6000K Cool White, E26 orE27 Medium Base.png"
+  },
+  {
+    "id": 119,
+    "title": "6000 Lumen LED Corn Light Bulb",
+    "description": "",
+    "price": 500.00,
+    "imageName": "/uploads/Bulbs/6000 Lumen LED Corn Cob Light Bulb.png"
+  },
+  {
+    "id": 118,
+    "title": "Wolpin Drawing & Technical Pencil",
+    "description": "An ergonomically balanced hexagonal drawing pencil engineered to resist rolling off inclined design desks. Houses a high-density, break-resistant graphite core that maintains structural accuracy during detailed blueprints.",
+    "price": 350.00,
+    "imageName": "/uploads/Stationery/Wolpin Drawing Pencil.png"
+  },
+  {
+    "id": 117,
+    "title": "Heavy-Duty Spiral Notebook",
+    "description": "A premier wire-bound spiral notebook engineered to lay completely flat or fold back smoothly for restricted writing desk layouts. Features laser-perforated page margins for clean, tear-free sheet removal.",
+    "price": 450.00,
+    "imageName": "/uploads/Stationery/Spiral Notebook.png"
+  },
+  {
+    "id": 116,
+    "title": "Minimalist Clear Mesh Pencil Pouch",
+    "description": "A highly durable, see-through wire mesh stationery pouch offering rapid visibility during timed academic examinations. Completely complies with strict school evaluation center security guidelines.",
+    "price": 300.00,
+    "imageName": "/uploads/School-Essentials/test.png"
+  },
+  
+  {
+    "id": 115,
+    "title": "My Stuff Canvas Zipper Pouch",
+    "description": "A minimalist, textual statement canvas pouch explicitly designed to separate daily geometry tools, calculators, and fine liners. Features a soft interior composite lining that safeguards technical screens from scratching.",
+    "price": 400.00,
+    "imageName": "/uploads/Stationery/My stuff pencil case.png"
+  },
+  {
+    "id": 114,
+    "title": "Mukiwa Executive Standard Notebook",
+    "description": "The flagship full-sized ledger notebook engineered for intensive lecture logging, fiscal ledger entries, and business summaries. Encased in a highly rugged, spill-resistant vinyl protective skin.",
+    "price": 850.00,
+    "imageName": "/uploads/Stationery/Mukiwa Exe Note Book.png"
+  },
+  {
+    "id": 113,
+    "title": "Mukiwa Executive A5 Notebook",
+    "description": "A highly sophisticated, premium hardbound A5 diary tailored for university academics, professional scholars, and boardroom settings. Houses bright, cleanly ruled pages and a built-in satin ribbon bookmark for quick referencing.",
+    "price": 600.00,
+    "imageName": "/uploads/Stationery/Mukiwa Exe Note Book A5.png"
+  },
+  {
+    "id": 112,
+    "title": "Leopard Print Accent Pencil Pouch",
+    "description": "A trendy, high-fashion pencil case highlighting a bold animal-print accent motif and heavily reinforced structural border stitching. Provides an edge of contemporary styling for older students looking to organize creative markers.",
+    "price": 550.00,
+    "imageName": "/uploads/Stationery/leopard case pencil.png"
+  },
+  {
+    "id": 110,
+    "title": "Large Capacity Canvas Pencil Case",
+    "description": "An expandable, multi-tiered utility organizer box tailored from dense woven canvas fabric. Comfortably organizes up to 50 individual writing tools, micro highlighters, math dividers, and correction tape rolls in dedicated elastic mesh loops.",
+    "price": 800.00,
+    "imageName": "/uploads/Stationery/large capacity pencil case.png"
+  },
+  {
+    "id": 109,
+    "title": "Kids Cartoon Pencil Case",
+    "description": "A delightfully colorful stationery organizer bag highlighting bright, friendly animated graphics. Outfitted with a heavy-duty, snag-proof wide-track nylon zipper track that allows small children to access gear effortlessly.",
+    "price": 450.00,
+    "imageName": "/uploads/Stationery/Kids cartoon Pencil case.png"
+  },
+  {
+    "id": 108,
+    "title": "Kasuku Classic Exercise Notebook",
+    "description": "The quintessential, highly reliable Kenyan classroom favorite built to hold up under daily school transits. Outfitted with cleanly spaced, crisp blue margin lines perfect for homework logs, spelling tests, and lecture summaries.",
+    "price": 180.00,
+    "imageName": "/uploads/Stationery/Kasuku Notebook.png"
+  },
+  {
+    "id": 107,
+    "title": "Glittery Pink Fashion Notebook",
+    "description": "Bring distinct personal flair to your lecture hall workspace with this vibrant, sparkle-coated pink notebook. Outfitted with strong structural thread binding that lays flat to simplify intense daily journaling loops.",
+    "price": 400.00,
+    "imageName": "/uploads/Stationery/Glittery Notebook.png"
+  },
+  {
+    "id": 106,
+    "title": "Fine Graphite Drawing Pencils Pack",
+    "description": "A versatile multi-grade drafting pencil suite perfect for crisp geometric testing, technical blueprints, and highly accurate portrait layouts. Creates crisp, smudge-resistant dark values that stand up over time.",
+    "price": 600.00,
+    "imageName": "/uploads/Stationery/Fine Graphite Drawing.png"
+  },
+  {
+    "id": 105,
+    "title": "Faber-Castell Graphite Sketch Set",
+    "description": "An elite, globally renowned graphite core kit crafted with SV-bonded lead frames to deliver unmatched break resistance. Glides cleanly across drafting papers to create balanced shades, crisp line work, and deep shadows.",
+    "price": 1100.00,
+    "imageName": "/uploads/Stationery/Faber-Castell Graphite Sketch.png"
+  },
+  {
+    "id": 104,
+    "title": "ESD Cleanroom Anti-Static Binders",
+    "description": "A highly specialized, premium static-dissipative documentation binder engineered exclusively for laboratory research data and electronics manufacturing fields. Inhibits static generation loops to shield delicate electronic tech.",
+    "price": 1500.00,
+    "imageName": "/uploads/Stationery/ESD Clenroom Binders.png"
+  },
+  {
+    "id": 103,
+    "title": "DERWENT Professional Drawing Pencils",
+    "description": "A luxurious British-engineered fine art drawing set creating an exceptional, broad tonal spectrum. Allows master illustrators to achieve smooth blending transitions, clean linework, and crisp architectural layouts.",
+    "price": 1800.00,
+    "imageName": "/uploads/Stationery/DERWENT drawing pencils.png"
+  },
+  {
+    "id": 102,
+    "title": "Cardinal 3-Ring Binder",
+    "description": "An archival-safe, high-capacity presentation binder constructed to bundle large document databases smoothly. Features perfectly clear outer clear-view overlays on the covers for rapid customization and clear spine tracking.",
+    "price": 650.00,
+    "imageName": "/uploads/Stationery/Cardinal 3 Ring Binder.png"
+  },
+  {
+    "id": 101,
+    "title": "Camlin Drawing Pencils Set",
+    "description": "A dependable school-staple drawing suite engineered for fundamental geometry classes, engineering blueprints, and foundational art classes. Boasts core-bonded break-proof leads that retain sharp structural points under high pressure.",
+    "price": 400.00,
+    "imageName": "/uploads/Stationery/Camlin Drawing Pencils.png"
+  },
+  {
+    "id": 100,
+    "title": "BRUSTRO Artists Graphite Pencils Pack",
+    "description": "A professional-grade, precision-sorted sketching set optimized for hyper-realistic detailing, structural cross-hatching, and dark tone grading. Delivers highly uniform graphite distribution prized by art students and portrait specialists.",
+    "price": 950.00,
+    "imageName": "/uploads/Stationery/BRUSTRO Artists Graphite Pencils.png"
+  },
+  {
+    "id": 99,
+    "title": "Classic Brown Notebook",
+    "description": "A minimalist, vintage-inspired journal bound in a beautifully textured rustic brown structural skin. Houses high-grade, bleed-resistant cream pages that provide a clean, smooth feedback feel with premium fountain or fine gel pens.",
+    "price": 350.00,
+    "imageName": "/uploads/Stationery/Brown NoteBook.png"
+  },
+  {
+    "id": 98,
+    "title": "BMDAY 2-3 Ring Binders Set",
+    "description": "Industrial-strength multi-ring organizational binders built to catalog multi-page engineering documentation, loose handouts, and student assignments. Outfitted with high-tension locking rings to secure pages without tearing.",
+    "price": 850.00,
+    "imageName": "/uploads/Stationery/BMDAY 2-3 -Ring Binders.png"
+  },
+  {
+    "id": 97,
+    "title": "A5 Glittery Hardcover Notebook",
+    "description": "An elegant A5 journal featuring a durable, eye-catching glittery hardcover that stays pristine over time. Perfect for sketching your next project, writing daily creative logs, or keeping complex lecture notes highly organized.",
+    "price": 450.00,
+    "imageName": "/uploads/Stationery/A5 Glittery Hardcover Notebook.png"
+  },
+  {
+    "id": 96,
+    "title": "You Become What You Think by Shubham Kumar Singh",
+    "description": "A sharp, modern mindfulness handbook offering real-world techniques to escape toxic negative thinking spirals. Teaches readers how to consciously cultivate healthy mental imagery to drive productivity and manifest purposeful living.",
+    "price": 900.00,
+    "imageName": "/uploads/Books-To-Read/You Become What you Think by Shubham Kumar SINGH.png"
+  },
+  {
+    "id": 95,
+    "title": "Think and Grow Rich by Napoleon Hill",
+    "description": "The definitive wealth-building classic synthesized from analyzing the financial habits of historic industrial millionaires. Delivers 13 foundational principles to transform raw desire into tangible physical assets and corporate success.",
+    "price": 850.00,
+    "imageName": "/uploads/Books-To-Read/Think And Grow Rich.png"
+  },
+  {
+    "id": 94,
+    "title": "The Silent Patient by Alex Michaelides",
+    "description": "A dark, highly addictive psychological mystery novel focusing on a famous painter who abruptly shoots her husband and completely refuses to speak. Follows an obsessed criminal psychotherapist determined to unlock her hidden motive.",
+    "price": 1200.00,
+    "imageName": "/uploads/Books-To-Read/The Silent Patient by Alex Michaelides.png"
+  },
+  {
+    "id": 93,
+    "title": "The Psychology of Money by Morgan Housel",
+    "description": "An essential financial literacy masterpiece that treats wealth management as a behavioral discipline rather than a mathematical formula. Shares 19 insightful short stories investigating how greed, ego, and luck alter our investment habits.",
+    "price": 1300.00,
+    "imageName": "/uploads/Books-To-Read/The Psychology of Money.png"
+  },
+  {
+    "id": 92,
+    "title": "The Power of Self-Confidence by Brian Tracy",
+    "description": "A definitive tactical manual mapping out standard business habits to forge unshakeable self-belief. Teaches you how to step out of comfortable stagnation zones, set clear fiscal goals, and dominate professional environments.",
+    "price": 950.00,
+    "imageName": "/uploads/Books-To-Read/The Power Of Self Confidence.png"
+  },
+  {
+    "id": 91,
+    "title": "The Power of Positive Thinking by Norman Vincent Peale",
+    "description": "The historic motivation handbook designed to break the destructive habits of chronic self-doubt and internal frustration. Outlines simple, faith-based psychological exercises to build unshakeable optimism and daily energy reserves.",
+    "price": 800.00,
+    "imageName": "/uploads/Books-To-Read/The Power of Positive Thinking by Norman Vincent.png"
+  },
+  {
+    "id": 90,
+    "title": "The Guardians by John Grisham",
+    "description": "A gripping, fast-paced legal thriller centering on a dedicated group of innocence lawyers fighting to overturn a wrongful murder conviction. Uncovers a dark underbelly of corrupt courtroom operators, racial biases, and corporate hitmen.",
+    "price": 1250.00,
+    "imageName": "/uploads/Books-To-Read/The Guardians by John Grisham.png"
+  },
+  {
+    "id": 89,
+    "title": "The Miracles of Your Mind by Joseph Murphy",
+    "description": "A timeless spiritual and mental mastery guide explaining the deep, latent potential of your subconscious mind. Dr. Joseph Murphy details easy, repeatable visualization methods to redirect your mental currents toward health, wealth, and peace.",
+    "price": 750.00,
+    "imageName": "/uploads/Books-To-Read/Miracles of Your Mind by Joseph Murohy.png"
+  },
+  {
+    "id": 88,
+    "title": "It Ends with Us by Colleen Hoover",
+    "description": "An emotionally raw and compelling global bestseller exploring the messy, complicated realities of romance, domestic resilience, and inner strength. This powerful contemporary novel balances heartbreaking romantic tragedy with ultimate personal growth.",
+    "price": 1100.00,
+    "imageName": "/uploads/Books-To-Read/It ends with Us novel by Colleen Hoover.png"
+  },
+  {
+    "id": 87,
+    "title": "Surrounded by Idiots: The 4 Types of Human Behavior",
+    "description": "A groundbreaking behavioral psychology masterpiece by Thomas Erikson. It utilizes a simple four-color framework to decode human communication styles, providing readers with actionable insights to resolve interpersonal conflicts and improve corporate teamwork.",
+    "price": 1200.00,
+    "imageName": "/uploads/Books-To-Read/4 types of Human Behaviour.png"
+  },
+  {
+    "id": 86,
+    "title": "Bento Lunch Box with Cutlery",
+    "description": "An authentic, leakproof Japanese-style multi-tier bento box optimized for nutritional balance. Complete with a secure top compartment locking in a custom reusable snap-fit spoon and fork set.",
+    "price": 1100.00,
+    "imageName": "/uploads/School-Essentials/Bento Lunch Box with spoon and Fork.png"
+  },
+  
+   {
+    "id": 85,
+    "title": "Casual Daypack Backpack Grey",
+    "description": "A timeless, featherlight grey daypack tailored for quick, effortless daily transit. Equipped with quick-access dual mesh side slots for water bottles and a wide, accessible file organizer zone.",
+    "price": 2200.00,
+    "imageName": "/uploads/School-Essentials/Casual Daypack Backpack Grey.png"
+  },
+  {
+    "id": 84,
+    "title": "Executive Multifunction Casual Backpack",
+    "description": "A high-end, sleek unisex backpack designed to seamlessly transition from college lecture halls to premium corporate internship offices. Features ergonomic, sweat-wicking shoulder straps.",
+    "price": 4200.00,
+    "imageName": "/uploads/School-Essentials/Executive Corporate Multifunction mean and women casual backpack.png"
+  },
+  {
+    "id": 83,
+    "title": "Field Backpack Mustard",
+    "description": "Make a distinct style statement on campus with this premium mustard yellow canvas daypack. Blends a vintage outdoor aesthetic with contemporary multi-point internal organization pockets.",
+    "price": 2700.00,
+    "imageName": "/uploads/School-Essentials/Field Backpack Mustard.png"
+  },
+  {
+    "id": 82,
+    "title": "Grey Laptop Backpack with USB Port",
+    "description": "The ultimate high-tech daypack designed for modern students. Features an integrated external USB charging transit port connected directly to an internal power bank slot for on-the-go smart device power loops.",
+    "price": 3800.00,
+    "imageName": "/uploads/School-Essentials/Grey Laptop Backack with USB charging port.png"
+  },
+  {
+    "id": 81,
+    "title": "Large Capacity Kids School Bag",
+    "description": "An ultra-spacious, heavy-duty children`s backpack specifically engineered to optimize weight distribution across growing spines. Built with reinforced weather-resistant canvas to store multiple binders effortlessly.",
+    "price": 2900.00,
+    "imageName": "/uploads/School-Essentials/Large Capacity Kids School Bag.png"
+  },
+  {
+    "id": 80,
+    "title": "Lovelook Laptop Backpack for Women",
+    "description": "A chic, elegantly structured campus backpack blending premium modern fashion with high-utility tech protection. Features a fully padded anti-shock laptop compartment and hidden anti-theft zipper sleeves.",
+    "price": 3500.00,
+    "imageName": "/uploads/School-Essentials/Lovelook laptop Backpack for women.png"
+  },
+  {
+    "id": 79,
+    "title": "Lunch Box Set Green",
+    "description": "An all-in-one eco-friendly bento packing suite coming in a clean, vibrant mint-green finish. Includes modular inner dividers to perfectly arrange balanced home-cooked daily rations.",
+    "price": 1300.00,
+    "imageName": "/uploads/School-Essentials/Lunch box set Green.png"
+  },
+  {
+    "id": 78,
+    "title": "Magical Peach Multipocket School Bag",
+    "description": "A colorful, highly striking multi-pocket student backpack that blends aesthetic flair with stellar organization. Houses internal tech, stationery pouches, and arts items effortlessly.",
+    "price": 3200.00,
+    "imageName": "/uploads/School-Essentials/Magical peach multipocket kids school bag.png"
+  },
+  {
+    "id": 77,
+    "title": "Mateamoda Unisex Nylon Backpack",
+    "description": "A highly versatile, minimalist backpack tailored from industrial-grade woven nylon canvas. Repels rain splashes easily and incorporates multi-point internal organizer slots.",
+    "price": 2800.00,
+    "imageName": "/uploads/School-Essentials/Mateamoda Unisex Nylon Backpack.png"
+  },
+  {
+    "id": 76,
+    "title": "Minimax Water Bottle",
+    "description": "A high-volume, structural sports flask engineered for intense hydration demands. Features a secure high-flow cap that is ideal for cross-country tracks and hot afternoon field practices.",
+    "price": 1100.00,
+    "imageName": "/uploads/School-Essentials/Sybra Kids Water Bottle.png"
+  },
+  {
+    "id": 75,
+    "title": "Pibi 2-Compartment Lunch Box",
+    "description": "A streamlined dual-tier lunch repository featuring robust snap-locking side latches. Preserves original food textures and keeps warm meals completely isolated from cold fruits.",
+    "price": 950.00,
+    "imageName": "/uploads/School-Essentials/Pibi 2 -Compartment Lunch Box.png"
+  },
+  {
+    "id": 74,
+    "title": "Sybra Kids Water Bottle",
+    "description": "An ergonomic, anti-slip kids flask featuring an intuitive one-touch pop-up drinking straw. Engineered with drop-resistant polymers to withstand accidental desk tumbles.",
+    "price": 850.00,
+    "imageName": "/uploads/School-Essentials/Sybra Kids Water Bottle.png"
+  },
+  {
+    "id": 73,
+    "title": "Wholesale Water Bottle 2 Pieces",
+    "description": "A value-packed twin hydration set molded from ultra-durable eco-plastics. An excellent solution for separating daily classroom drinking water from intensive field athletics.",
+    "price": 1200.00,
+    "imageName": "/uploads/School-Essentials/Wholesale Water Bottle 2 Pieces.png"
+  },
+  {
+    "id": 72,
+    "title": "Slim Fit Laptop Bag Blue",
+    "description": "A crisp, professional deep-blue device carrier featuring high-density shockproof corner padding. Shields valuable student laptops while maintaining a featherlight, ultra-slim layout.",
+    "price": 2500.00,
+    "imageName": "/uploads/School-Essentials/Slim fit laptop bag blue.png"
+  },
+  {
+    "id": 71,
+    "title": "Stainless Steel Water Bottle",
+    "description": "A sleek, vacuum-insulated double-wall stainless steel flask built for extreme temperature retention. Keeps dynamic energy drinks ice-cold or comforting herbal teas steaming hot.",
+    "price": 1500.00,
+    "imageName": "/uploads/School-Essentials/Stainless Steel Water Bottle, Modern Insulated Leakpro.png"
+  },
+  {
+    "id": 70,
+    "title": "Lunch Bag",
+    "description": "The ultimate premium insulated cooler bag featuring a highly flexible structural frame. Designed to securely lock out exterior heat arrays and anchor food freshness for hours.",
+    "price": 500.00,
+    "imageName": "/uploads/School-Essentials/Dino Kids Lunch Box.png"
+  },
+  {
+    "id": 69,
+    "title": "650ml BPA-Free Water Bottle",
+    "description": "A crystal-clear, food-grade hydration flask equipped with a ruggedly woven nylon carry strap. Completely toxin-free and impact-resistant for rowdy playground breaks.",
+    "price": 400.00,
+    "imageName": "/uploads/School-Essentials/650ml BPA-Free Water Bottle with Carry Strap.png"
+  }
+
+
+
+]
