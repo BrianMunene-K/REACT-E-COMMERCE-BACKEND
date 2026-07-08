@@ -1,5 +1,3 @@
-
-
 const natural = require('natural');
 const TfIdf = natural.TfIdf;
 
@@ -17,9 +15,7 @@ function classifyCatalog(rawProducts) {
   if (!Array.isArray(rawProducts)) return [];
 
   const tfidf = new TfIdf();
-
-  
-  // We feed the combined text vectors of every single item directly into the TF-IDF engine
+ // We feed the combined text vectors of every single item directly into the TF-IDF engine
   rawProducts.forEach((product) => {
     const pathContext = extractPathTokens(product.imageName);
     const textCorpusBlock = `${product.title} ${product.description} ${pathContext}`;
@@ -64,8 +60,8 @@ function classifyCatalog(rawProducts) {
       description: product.description,
       price: product.price,       // Kept as raw number data type for KES currencies
       imageName: product.imageName,
-      category: computedCategory, // Injected dynamically via NLP term densities
-      rating: generatedRating     // Injected via deterministic indexing
+      category: computedCategory, 
+      rating: generatedRating     
     };
   });
 }
