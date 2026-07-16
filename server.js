@@ -14,7 +14,6 @@ app.use('/Uploads', express.static(UPLOADS_DIR));
 const { router } = require('./routes/productRoutes');
 app.use('/api/products', router);
 
-// --- NEW SEARCH FEED TRACK (INDEPENDENT COUPLING) ---
 
 const searchRoute = require('./routes/searchRoute');
 app.use('/api/search', searchRoute);

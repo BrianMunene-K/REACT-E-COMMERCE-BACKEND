@@ -46,7 +46,6 @@ exports.executeQuerySearch = async (req, res) => {
       return matchTitle || matchDesc || matchCategory;
     });
 
-    // 2. PAGINATION OFFSETS COMPUTATION SLICER
     const totalMatches = matchingProducts.length;
     const startIndex = (pageIndex - 1) * ITEMS_PER_PAGE;
     const endIndex = startIndex + ITEMS_PER_PAGE;
@@ -54,10 +53,7 @@ exports.executeQuerySearch = async (req, res) => {
     // Slice out the exact page segment of 8 items to send down the wire
     const paginatedSlice = matchingProducts.slice(startIndex, endIndex);
 
-    // 3. HASMORE BOOLEAN STREAM RULE DETERMINATION
     const hasMore = endIndex < totalMatches;
-
-    // Stream the final structural payload directly to your frontend SearchGrid
     return res.status(200).json({
       products: paginatedSlice,
       hasMore: hasMore
@@ -71,7 +67,6 @@ exports.executeKeystrokeSuggestions = async (req, res) => {
   try {
     const prefixInput = req.query.prefix || '';
     
-    // Call our fast O(L) prefix search tree to collect character suggestions
     const matchedStrings = globalProductTrie.searchSuggestions(prefixInput);
 
     return res.status(200).json(matchedStrings);

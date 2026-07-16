@@ -815,8 +815,455 @@
     "description": "A crystal-clear, food-grade hydration flask equipped with a ruggedly woven nylon carry strap. Completely toxin-free and impact-resistant for rowdy playground breaks.",
     "price": 400.00,
     "imageName": "/uploads/School-Essentials/650ml BPA-Free Water Bottle with Carry Strap.png"
+  },
+  {
+    "id": 68,
+    "title": "Large Capacity Kids School Bag",
+    "description": "An ergonomic, heavy-duty utility backpack built to distribute weight evenly across developing spines. Boasts multiple oversized document slots to comfortably house heavy textbooks.",
+    "price": 1500.00,
+    "imageName": "/uploads/School-Essentials/Large Capacity Kids School Bag.png"
+  },
+  {
+    "id": 67,
+    "title": "Grid Leak Proof Lunch Box",
+    "description": "An advanced, multi-grid bento box engineered with tight silicone compression rims. Completely isolates different food items to guarantee zero messy sauce leaks inside backpacks.",
+    "price": 800.00,
+    "imageName": "/uploads/School-Essentials/Grid Leak Proof Lunch Box.png"
+  },
+  {
+    "id": 66,
+    "title": "Cutie School Bag",
+    "description": "A delightfully charming, pastel-toned school bag tailored for younger scholars. Features ultra-soft shoulder cushioning, double-stitched zippers, and a rugged water-resistant canvas exterior.",
+    "price": 800.00,
+    "imageName": "/uploads/School-Essentials/Cute school bag.png"
+  },
+  {
+    "id": 65,
+    "title": "Harry Potter Lunch Box",
+    "description": "Cast a spell over your midday breaks with this enchanting themed lunch box. Built with premium insulated thermal walls to keep sandwiches magic-fresh and drinks perfectly chilled all day long.",
+    "price": 500.00,
+    "imageName": "/uploads/School-Essentials/Harry Potter Lunchbox.png"
+  },
+  {
+    "id": 64,
+    "title": "Victoria’s Secret Bombshell",
+    "description": "The iconic, award-winning fragrance blend featuring a dazzling mix of purple passionfruit, yellow Shangri-la peony, and sweet vanilla orchid. Finished with a highly elegant, glamorous aura.",
+    "price": 4200.00,
+    "imageName": "/uploads/Deodrant-collection/Victorias Secret Bombshell_result.png"
+  },
+  {
+    "id": 63,
+    "title": "Victoria’s Secret Body Mist",
+    "description": "An ultra-light, refreshing feminine fragrance mist designed for frequent daily touch-ups. Leaves a delicate, seductive trail of sweet floral blossoms and warm sugars on the skin.",
+    "price": 3500.00,
+    "imageName": "/uploads/Deodrant-collection/Victorias Secret Bombshell_result.png"
+  },
+  {
+    "id": 62,
+    "title": "Versace Eros Perfume",
+    "description": "A bold, high-luxury fragrance representing passionate power. Releases a vibrant blend of fresh crushed mint leaves, sweet Italian lemon zest, crisp green apples, and warm vanilla bean loops.",
+    "price": 9000.00,
+    "imageName": "/uploads/Deodrant-collection/Versace Eros_result.png"
+  },
+  {
+    "id": 61,
+    "title": "Vanicream Aluminum-Free Gel",
+    "description": "A dermatologist-recommended gel deodorant designed explicitly for hyper-sensitive skin types. Formulated entirely without common chemical irritants, masking fragrances, dyes, or gluten elements.",
+    "price": 1000.00,
+    "imageName": "/uploads/Deodrant-collection/vanicream Aluminium FreeGel_result.png"
+  },
+  {
+    "id": 60,
+    "title": "Valentino Uomo Born in Roma",
+    "description": "A masterpiece designer fragrance that reflects modern Roman street culture. Unveils a premium masculine cocktail of mineral salt accords, deep smoked vetiver, and rich ginger spice.",
+    "price": 8500.00,
+    "imageName": "/uploads/Deodrant-collection/Valentino Uomo Born_result.png"
+  },
+  {
+    "id": 59,
+    "title": "Tom’s of Maine Mountain Fresh",
+    "description": "A naturally derived deodorant stick inspired by clean, crisp high-altitude mountain air. Leverages botanically harvested antimicrobial zinc minerals to combat bad odor without artificial colorants.",
+    "price": 1100.00,
+    "imageName": "/uploads/Deodrant-collection/Toms of Maine Mountain_result.png"
+  },
+  {
+    "id": 58,
+    "title": "Swiss Arabian Hayali Rouge",
+    "description": "A premium luxury oriental perfume that captures old-world mystery. Blends opulent, deep crimson floral essences with heavy woody base notes to create an elite, long-lasting sensory signature.",
+    "price": 7000.00,
+    "imageName": "/uploads/Deodrant-collection/Swiss Arabian Hayali Rouge_result.png"
+  },
+  {
+    "id": 57,
+    "title": "Secret Outlast Antiperspirant",
+    "description": "Formulated to outlast the longest workspace shifts, this smooth clear gel blocks sweat before it hits your clothes. Leaves zero white chalk residues while anchoring all-day continuous dryness.",
+    "price": 950.00,
+    "imageName": "/uploads/Deodrant-collection/Secret Outlast Antiperspirant_result.png"
+  },
+  {
+    "id": 56,
+    "title": "Secret Fresh Antiperspirant",
+    "description": "An elite women’s solid antiperspirant featuring specialized scent-renewal loops. Delivers an immediate blast of crisp, clean fragrance that actively counters sweat production as your body heat raises.",
+    "price": 900.00,
+    "imageName": "/uploads/Deodrant-collection/Secret Fresh Antiperspirant_result.png"
+  },
+  {
+    "id": 55,
+    "title": "Right Guard Extreme Defense",
+    "description": "A heavy-duty clinical antiperspirant stick engineered for high-intensity athletic environments. Deploys targeted sweat-blocking barriers to guard against deep wetness for up to 72 hours.",
+    "price": 850.00,
+    "imageName": "/uploads/Deodrant-collection/Right Guard Extreme Defense.png"
+  },
+  {
+    "id": 54,
+    "title": "Pure Instinct Roll-On",
+    "description": "A unique, pheromone-infused genderless fragrance oil designed to blend seamlessly with your skin’s natural pH. Emits a subtle, deeply intriguing scent trail that elevates personal aura and raw attraction.",
+    "price": 1100.00,
+    "imageName": "/uploads/Deodrant-collection/Pure Instinct Roll on.png"
+  },
+  {
+    "id": 53,
+    "title": "Pacifica Island Deodorant",
+    "description": "A tropical-inspired natural stick deodorant blending exotic vanilla lipids with fresh, aromatic floral notes. Glides on clear while offering natural vegan protection suited for an active day.",
+    "price": 1000.00,
+    "imageName": "/uploads/Deodrant-collection/Pasifica Island.png"
+  },
+  {
+    "id": 52,
+    "title": "Old Spice Aluminum-Free Deodorant",
+    "description": "The iconic, time-tested masculine fragrance re-engineered with an advanced aluminum-free formula. Delivers heavy-duty odor neutralizers that preserve your confidence without blocking natural skin respiration cells.",
+    "price": 850.00,
+    "imageName": "/uploads/Deodrant-collection/Old Spice Aluminium free deodrant for men.png"
+  },
+  {
+    "id": 51,
+    "title": "Native Deodorant",
+    "description": "A highly popular, clean stick deodorant formulated completely free from aluminum, parabens, and harsh chemical agents. Uses natural baking soda and coconut lipids to deliver smooth, reliable freshness.",
+    "price": 1200.00,
+    "imageName": "/uploads/Deodrant-collection/Native Deodrant.png"
+  },
+  {
+    "id": 50,
+    "title": "Mitchum Women Antiperspirant",
+    "description": "A highly dependable women’s antiperspirant stick designed for seamless wetness mitigation. Forms an unshakeable all-day micro-seal to keep your underarms perfectly dry.",
+    "price": 900.00,
+    "imageName": "/uploads/Deodrant-collection/Mitchum Women Antiperspirant.png"
+  },
+  {
+    "id": 49,
+    "title": "Mitchum Ultimate Deodorant",
+    "description": "An elite, clinical-strength roll-on gel that dries instantly upon skin contact. Utilizes oxygen odor control matrices to kill bad bacteria before it compromises your outfit.",
+    "price": 950.00,
+    "imageName": "/uploads/Deodrant-collection/Mitchum Ultimate.png"
+  },
+  {
+    "id": 48,
+    "title": "Lebanta Hair Perfume",
+    "description": "A luxurious, ultra-light hair mist designed to neutralize environmental odors instantly. Infuses your hair tresses with an elegant, fresh-smelling aura without drying or weighting curls.",
+    "price": 1200.00,
+    "imageName": "/uploads/Deodrant-collection/lebanta hair perfume.png"
+  },
+  {
+    "id": 47,
+    "title": "Lady Speed Stick",
+    "description": "A classic, trusted feminine deodorant stick featuring an optimized glide applicator. Leaves a smooth layer of long-lasting, powder-fresh fragrance that preserves underarm confidence.",
+    "price": 700.00,
+    "imageName": "/uploads/Deodrant-collection/Lady Speed Stick.png"
+  },
+  {
+    "id": 46,
+    "title": "Harry’s Extra Strength Antiperspirant",
+    "description": "A maximum defense antiperspirant stick built with a modern, sophisticated herbal scent profile. Creates a long-lasting, sweat-blocking structural seal against nervous perspiration.",
+    "price": 1100.00,
+    "imageName": "/uploads/Deodrant-collection/Harrys Extra Strength Antiperspirant.png"
+  },
+  {
+    "id": 45,
+    "title": "Gillette Antiperspirant",
+    "description": "A high-performance clear gel antiperspirant engineered for athletic training circles. Provides immediate cooling sensations while activating rapid, micro-focused sweat shields.",
+    "price": 800.00,
+    "imageName": "/uploads/Deodrant-collection/Gillete Antiperspirant.png"
+  },
+  {
+    "id": 44,
+    "title": "Dr Squatch Natural Deodorant",
+    "description": "An authentic, aluminum-free natural men’s deodorant utilizing arrowroot powder and charcoal. Releases an earthy, deep forest scent profile that combats underarm bacteria naturally.",
+    "price": 1300.00,
+    "imageName": "/uploads/Deodrant-collection/Dr Squatch Natural Mens Deodrant-Aluminium Free.png"
+  },
+  {
+    "id": 43,
+    "title": "Dove Men+Care Stick Deodorant",
+    "description": "A rugged yet comforting grooming stick built for high-performance defense. Glides on smoothly to create a micro-layer of continuous skin comfort and active daily freshness.",
+    "price": 900.00,
+    "imageName": "/uploads/Deodrant-collection/Dove Men+Care Deodrant.png"
+  },
+   {
+    "id": 42,
+    "title": "Dove Men+Care Deodorant",
+    "description": "A refreshing, dermatologist-tested men’s stick explicitly designed to balance powerful odor fighting mechanics with essential skin hydration cells to prevent chafing.",
+    "price": 950.00,
+    "imageName": "/uploads/Deodrant-collection/Dove Men+Care Deodrant.png"
+  },
+  {
+    "id": 41,
+    "title": "Dove Advanced Care Antiperspirant",
+    "description": "A premium underarm treatment featuring Dove’s signature 1/4 moisturizing cream matrix. Repairs standard shaving irritation while providing reliable 48-hour perspiration protection.",
+    "price": 900.00,
+    "imageName": "/uploads/Deodrant-collection/Dove Advanced Care Antiperspirant Deodrant.png"
+  },
+  {
+    "id": 40,
+    "title": "Degree Original Antiperspirant",
+    "description": "A heavy-duty masculine antiperspirant stick delivering a blast of crisp freshness. Locks down underlying sweat glands to maintain optimal dryness during active manual workouts.",
+    "price": 800.00,
+    "imageName": "/uploads/Deodrant-collection/Degree Original Antiperspirant.png"
+  },
+  {
+    "id": 39,
+    "title": "Degree Men Ultraclear Black + White",
+    "description": "An advanced defense antiperspirant stick specifically engineered to stop white marks on black shirts and yellow stains on crisp white fabrics. Keeps your apparel looking flawless.",
+    "price": 850.00,
+    "imageName": "/uploads/Deodrant-collection/Degree Men Ultraclear Antiperspirant Deodrant Black+white.png"
+  },
+  {
+    "id": 38,
+    "title": "Degree Men Original Deodorant",
+    "description": "A rugged, time-tested men’s deodorant offering unwavering 24-hour protection. Features a reliable body-heat activated formula built to stop standard daily sweat odors in their tracks.",
+    "price": 750.00,
+    "imageName": "/uploads/Deodrant-collection/Degree Men Original.png"
+  },
+  {
+    "id": 37,
+    "title": "Carpe Underarm Antiperspirant",
+    "description": "A clinical-strength underarm antiperspirant lotion engineered for intense hyperhidrosis management. Delivers a dramatic sweat-blocking barrier designed for maximum perspiration control.",
+    "price": 1200.00,
+    "imageName": "/uploads/Deodrant-collection/Carpe Underarm Antiperspirant.png"
+  },
+  {
+    "id": 36,
+    "title": "Carolina Herrera Good Girl Perfume",
+    "description": "An iconic luxury women’s fragrance capturing bold sophistication in a bottle. Unveils a mesmerizing blend of sweet white floral jasmine notes mixed with deep, dark cocoa finishes.",
+    "price": 6500.00,
+    "imageName": "/uploads/Deodrant-collection/Carolina Herrera Good Girl.png"
+  },
+  {
+    "id": 35,
+    "title": "Botanic Hearth Vanilla Deodorant",
+    "description": "An artisanally crafted botanical stick deodorant infused with comforting natural vanilla bean extracts. Uses plant lipids to support soft underarm skin while controlling daily wetness.",
+    "price": 1000.00,
+    "imageName": "/uploads/Deodrant-collection/Botanic Herth Vanilla.png"
+  },
+  {
+    "id": 34,
+    "title": "Ban Invisible Roll-On Antiperspirant",
+    "description": "A high-performance roll-on antiperspirant designed with an advanced invisible dry finish formula. Blocks underarm wetness and heavy odor loops without leaving marks on clothing.",
+    "price": 800.00,
+    "imageName": "/uploads/Deodrant-collection/Ban Invisible Roll-on Antiperspirant.png"
+  },
+  {
+    "id": 33,
+    "title": "Athena Club Deodorant",
+    "description": "A smooth, plant-powered stick deodorant that glides on like silk without leaving a sticky residue. Infused with a sophisticated, clean feminine fragrance ideal for premium daily skin care.",
+    "price": 950.00,
+    "imageName": "/uploads/Deodrant-collection/Athena Club.png"
+  },
+  {
+    "id": 32,
+    "title": "Arm & Hammer Essentials Deodorant",
+    "description": "An aluminum-free natural odor control deodorant powered by pure baking soda. Neutralizes stubborn sweat odors effortlessly to ensure reliable, clean freshness that lasts all day.",
+    "price": 900.00,
+    "imageName": "/uploads/Deodrant-collection/ARM &HAMMER Essentials.png"
+  },
+  {
+    "id": 31,
+    "title": "Alvera All Natural Roll-On",
+    "description": "A gentle, plant-based roll-on deodorant infused with pure aloe vera extracts. Provides clean, soothing protection specifically formulated to hydrate and shield sensitive underarm skin.",
+    "price": 850.00,
+    "imageName": "/uploads/Deodrant-collection/Alvera All Natural Roll on.png"
+  },
+  {
+    "id": 30,
+    "title": "Power Strip Surge Protector",
+    "description": "A multi-port heavy-duty electrical surge safety strip equipped with intelligent charging modules. Safeguards sensitive engineering tech from structural voltage spikes.",
+    "price": 6500.00,
+    "imageName": "/uploads/Latest-Devices/power strip surge protector.png"
+  },
+  {
+    "id": 29,
+    "title": "Portable Travel Router",
+    "description": "A pocket-sized, high-speed travel wireless router designed to securely convert public Ethernet or hotel networks into private, encrypted Wi-Fi hotspots for mobile teams.",
+    "price": 12500.00,
+    "imageName": "/uploads/Latest-Devices/portable travel router.png"
+  },
+  {
+    "id": 28,
+    "title": "Portable Monitor Display",
+    "description": "An ultra-slim, lightweight secondary external screen featuring a stunning high-definition display panel. Instantly expands display space via USB-C for gaming, programming, or mobile offices.",
+    "price": 32000.00,
+    "imageName": "/uploads/Latest-Devices/portable monitor.png"
+  },
+  {
+    "id": 26,
+    "title": "Levitating Bluetooth Speaker",
+    "description": "A futuristic, visually stunning floating wireless speaker system utilizing magnetic levitation fields. Projects crisp, omnidirectional surround sound while hovering over its magnetic base.",
+    "price": 26000.00,
+    "imageName": "/uploads/Latest-Devices/levitating bluetooth speaker.png"
+  },
+  {
+    "id": 25,
+    "title": "Hi Lock AI Voice Recorder",
+    "description": "An ultra-portable, voice-activated smart recorder leveraging embedded AI algorithms for advanced real-time noise cancellation and quick speech-to-text structural transcriptions.",
+    "price": 14000.00,
+    "imageName": "/uploads/Latest-Devices/Hi lock Ai voice recorder.png"
+  },
+  {
+    "id": 24,
+    "title": "Garmin HRM Monitor",
+    "description": "A professional-grade chest strap heart rate monitor built for elite fitness tracking. Transmits real-time physiological metrics instantly to compatible gym devices and tracking applications.",
+    "price": 18500.00,
+    "imageName": "/uploads/Latest-Devices/Garmin HRM.png"
+  },
+  {
+    "id": 23,
+    "title": "Foxelli Bluetooth Minihat",
+    "description": "A premium, weather-resistant smart wearable knit hat featuring seamlessly integrated wireless audio speakers. Perfect for streaming hands-free music or taking calls during outdoor winter jogs.",
+    "price": 20000.00,
+    "imageName": "/uploads/Latest-Devices/foxelli bluetooth minihat.png"
+  },
+  {
+    "id": 22,
+    "title": "Toy Truck",
+    "description": "A rugged, heavy-duty construction transport truck built with durable impact-resistant plastics. Perfect for sandbox hauling, indoor logistics games, and active toddler playtime.",
+    "price": 1100.00,
+    "imageName": "/uploads/Toy-Collections/Truck.png"
+  },
+  {
+    "id": 21,
+    "title": "Race Tracks",
+    "description": "An customizable loop racing setup featuring modular interlocking road tracks. Encourages hands-on physics exploration and competitive high-speed car racing action for kids.",
+    "price": 2500.00,
+    "imageName": "/uploads/Toy-Collections/raceTracks.png"
+  },
+  {
+    "id": 20,
+    "title": "Spidey Remote Car",
+    "description": "Race to the rescue with this web-slinging Spiderman themed remote control car. Equipped with high-traction tires and an easy-to-use controller built for small hands.",
+    "price": 1800.00,
+    "imageName": "/uploads/Toy-Collections/remotecar.png"
+  },
+  {
+    "id": 19,
+    "title": "Airplane Remote Toy",
+    "description": "High-flying auto-control remote drone designed for beginner pilots. Features dual-stability sensors and an impact-resistant frame for safe indoor and outdoor navigation.",
+    "price": 2000.00,
+    "imageName": "/uploads/Toy-Collections/remotecar.png"
+  },
+  {
+    "id": 18,
+    "title": "Building Blocks",
+    "description": "An educational collection of multi-colored geometric blocks. Promotes early cognitive development, motor control, and imaginative structural designs for young minds.",
+    "price": 1500.00,
+    "imageName": "/uploads/Toy-Collections/building blocks.png"
+  },
+  {
+    "id": 17,
+    "title": "Toy Sword",
+    "description": "A lightweight, durable foam sword built for action-packed roleplay. Features safe rounded edges to let young warriors safely reenact their favorite cartoon battles.",
+    "price": 1000.00,
+    "imageName": "/uploads/Toy-Collections/toySword.png"
+  },
+  {
+    "id": 16,
+    "title": "Lego Toy Set",
+    "description": "Unlock endless creative adventures with this vibrant brick building setup. Ideal for developing spatial skills and recreating colorful brick-built cartoon scenes.",
+    "price": 2000.00,
+    "imageName": "/uploads/Toy-Collections/lego.png"
+  },
+  {
+    "id": 14,
+    "title": "Medusa Streetwear",
+    "description": "A bold fashion statement fusing ancient mythology with modern urban culture. Highlights an intricate Medusa graphic printed on premium, fade-resistant black canvas fabric.",
+    "price": 3000.00,
+    "imageName": "/uploads/fashion-trends/medusa_result.png"
+  },
+  {
+    "id": 12,
+    "title": "Lineage Hoodie",
+    "description": "Embrace the dark aesthetic with this heavyweight streetwear hoodie. Detailed with subtle gothic graphics and a relaxed drop-shoulder fit perfect for layering.",
+    "price": 2000.00,
+    "imageName": "/uploads/fashion-trends/daggerwaveHoddie.png"
+  },
+   {
+    "id": 11,
+    "title": "Oxford Shirt",
+    "description": "A timeless formal essential crafted from durable, breathable cotton weave. Features a clean button-down collar and sharp tailored sleeve cuffs for professional or smart-casual styling.",
+    "price": 1000.00,
+    "imageName": "/uploads/fashion-trends/oxford sleeve shirts_result.png"
+  },
+  {
+    "id": 9,
+    "title": "Casual Sweatshirt",
+    "description": "Soft everyday wear",
+    "price": 2000.00,
+    "imageName": "/uploads/fashion-trends/casual sweatshirts_result.png"
+  },
+  {
+    "id": 8,
+    "title": "Bones T-Shirt",
+    "description": "Graphic streetwear tee",
+    "price": 2000.00,
+    "imageName": "/uploads/fashion-trends/polo shirts_result.png"
+  },
+  {
+    "id": 7,
+    "title": "GreyDie Hoodie",
+    "description": "Oversized hoodie",
+    "price": 4000.00,
+    "imageName": "/uploads/fashion-trends/greydie oversized hoodie_result.png"
+  },
+  {
+    "id": 6,
+    "title": "Business Outfit Set",
+    "description": "Formal outfit pack",
+    "price": 3000.00,
+    "imageName": "/uploads/fashion-trends/3pack business outfit_result.png"
+  },
+  {
+    "id": 5,
+    "title": "Attitude T-Shirt",
+    "description": "Gothic streetwear tee",
+    "price": 1500.00,
+    "imageName": "/uploads/fashion-trends/attitude half half_result.png"
+  },
+  {
+    "id": 4,
+    "title": "K-POP Hunter T-Shirt",
+    "description": "Anime superhero tshirt",
+    "price": 900.00,
+    "imageName": "/uploads/fashion-trends/Pop-Hunters.png"
+  },
+  {
+    "id": 3,
+    "title": "Adenorah Hoodie",
+    "description": "Minimalist hoodie style",
+    "price": 800.00,
+    "imageName": "/uploads/fashion-trends/adenorah_result.png"
+  },
+  {
+    "id": 2,
+    "title": "Cargo Sweatpant",
+    "description": "Relaxed cargo pants",
+    "price": 2000.00,
+    "imageName": "/uploads/fashion-trends/cargo 1.jpg"
+  },
+  {
+    "id": 1,
+    "title": "DaggerWave Hoodie",
+    "description": "Unisex streetwear hoodie",
+    "price": 2000.00,
+    "imageName": "/uploads/fashion-trends/daggerwaveHoddie.png"
   }
-
 
 
 ]
